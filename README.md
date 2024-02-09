@@ -1,4 +1,5 @@
-- 📌 Pronouns: 3 years of experience as a performance marketer.<br>
-I have performance marketing experience at Daou Kiwoom Group and am currently preparing to become a back-end developer. <br>
-  I will develop really hard every day! <br>
-- 😄 Fun fact: I love blue 💙
+- 📌 Pronouns: I have 3 years of experience as a performance marketer. <br>
+  -  I have experience in performance marketing at Daou Kiwoom Group <br>
+  - and am currently preparing to transition into a career as a back-end developer.<br>
+  - I am committed to working hard and improving my skills every day!<br>
+- 😄 Fun fact: I love the color blue 💙
