@@ -1,7 +1,9 @@
+<h3>😀 About Me </h3>
+
 - 📌 Pronouns: I have 3 years of experience as a performance marketer from 2021 to 2023.
   - I have experience in performance marketing at Daou Kiwoom Group and am currently preparing to transition into a career as a back-end developer.
   - I am committed to working hard and improving my skills every day!
-- 😄 Fun fact: I love the color blue 🩵
+- 😄 Fun fact: I love the color blue 🩵 and cat 🐱.
 <br>
 <br>
 
