@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0033ff&height=200&section=header&text=JuyoungOh&fontSize=40&animation=twinkling&fontAlign=75)
-
 <h2>😀 About Me </h2>
 
 - 📌 Pronouns: I have 3 years of experience as a performance marketer from 2021 to 2023.
