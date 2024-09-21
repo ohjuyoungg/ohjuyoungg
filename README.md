@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=200&section=header&text=JuyoungOh&fontSize=40&animation=twinkling&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0033ff&height=200&section=header&text=JuyoungOh&fontSize=40&animation=twinkling&fontAlign=75)
 
-
-<h3>😀 About Me </h3>
+<h2>😀 About Me </h2>
 
 - 📌 Pronouns: I have 3 years of experience as a performance marketer from 2021 to 2023.
   - I have experience in performance marketing at Daou Kiwoom Group and am currently preparing to transition into a career as a back-end developer.
