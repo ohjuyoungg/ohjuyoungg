@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=JuyoungOh&fontSize=40&animation=twinkling&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=JuyoungOh&fontSize=30&animation=twinkling&fontAlign=75)
 
 # 😀 About Me 
 
