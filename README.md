@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=JuyoungOh&fontSize=40&animation=twinkling&fontAlign=75)
-<h2>😀 About Me </h2>
+# 😀 About Me 
 
 - 📌 Pronouns: I have 3 years of experience as a performance marketer from 2021 to 2023.
   - I have experience in performance marketing at Daou Kiwoom Group and am currently preparing to transition into a career as a back-end developer.
@@ -10,7 +10,7 @@
 
 # 📚 Skills
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" /> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/GoogleTagManager-61DAFB?style=for-the-badge&logo=GoogleTagManager&logoColor=blue"> 
-<img src="https://img.shields.io/badge/GoogleAnalytics-E34F26?style=for-the-badge&logo=GoogleAnalytics&logoColor=yellow"> 
+<img src="https://img.shields.io/badge/GoogleAnalytics-E34F26?style=for-the-badge&logo=GoogleAnalytics&logoColor=yellow"> <img src="https://img.shields.io/badge/GoogleDataStudio-4479A1?style=for-the-badge&logo=GoogleDataStudio&logoColor=blue"> 
 
 <br>
 <br>
