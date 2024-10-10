@@ -3,7 +3,7 @@
 # 😀 About Me 
 
 - 📌 Pronouns: I have 3 years of experience as a performance marketer from 2021 to 2023.
-  - I have experience working in performance marketing at an AI technology startup that received investment from Naver and at Daou Kiwoom Group.
+  - I have experience working in performance marketing at Naver D2 and Daou Kiwoom Group.
   - I am currently preparing to transition into a career as a back-end developer.
   - I am committed to working hard and improving my skills every day!
 - ⚡️ Fun fact: I love the color blue 💙 and cat 🐱.
